@@ -1,2 +1,2 @@
-# flex-grid
- grid made with flex box
+# Flex Grid
+ Grid made with flex box
